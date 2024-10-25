@@ -36,7 +36,7 @@ const Home = () => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/Vishal-beep136/WhosThat"
+              href="https://github.com/CtrlShiftCoder/who-that-pokemon"
             >
               <Button type="unfill" text="Github" />
             </a>
